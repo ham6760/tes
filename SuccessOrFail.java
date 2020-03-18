@@ -6,7 +6,7 @@ public class SuccessOrFail {
 		System.out.print("Input score: ");
 		int score = scanner.nextInt();
 		if (score >= 80)
-			system.out.println("congratulation");
+			System.out.println("Congratulation");
 
 		scanner.close();
 	}
